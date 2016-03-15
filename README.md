@@ -11,15 +11,15 @@
 
 
    - jupyter notebook
-   ou
+   
    - nohup jupyter notebook &
 
 
 ## Récupérer les notebooks présent sur ce répertoire
 
 
-    - cliquer sur "Download zip"
-    ou
-    - git clone https://github.com/kristaloverbeer/aquila-formation-python.git
+   - cliquer sur "Download zip"
+    
+   - git clone https://github.com/kristaloverbeer/aquila-formation-python.git
 
 
